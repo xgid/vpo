@@ -1,0 +1,6 @@
+---
+site_name: Vanguard Package One Docs
+repo_url: https://github.com/xgid/vpo
+dev_addr: "0.0.0.0:4000"
+theme: bootstrap
+docs_dir: docs
